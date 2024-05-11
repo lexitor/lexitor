@@ -1,3 +1,3 @@
 # lexitor
 
-Lexitor has moved to [https://github.com/enassi/lexitor](https://github.com/enassi/lexitor).
+Lexitor has moved to [https://github.com/newproplus/lexitor](https://github.com/newproplus/lexitor).
